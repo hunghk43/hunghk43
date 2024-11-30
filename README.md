@@ -1,4 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/BWZslVd1zXsHK/giphy.gif?cid=790b7611o6j7qi2ylzjasoue6y0bifhilr1ucfdu4kqsyxm9&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media.giphy.com/media/S1VDEwAXGThFeGPsiU/giphy.gif?cid=790b7611o6j7qi2ylzjasoue6y0bifhilr1ucfdu4kqsyxm9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/BWZslVd1zXsHK/giphy.gif?cid=790b7611o6j7qi2ylzjasoue6y0bifhilr1ucfdu4kqsyxm9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" />
+
 
 
 
