@@ -77,8 +77,13 @@
 
 
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@hunghk43) 
+## 💰 You can help me by Donating
+
+<p align="center">
+  <a href="https://paypal.me/@hunghk43" target="_blank">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate" />
+  </a>
+</p>
 
 
   
