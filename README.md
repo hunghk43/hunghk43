@@ -84,12 +84,10 @@
 
 
 
-## 💰 Donate bát phở ở đây nhá:)))
+## ☕ Support me with a coffee :))
 
-<p align="center">
-  <a href="https://paypal.me/@hunghk43" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate" />
-  </a>
+<p align="center" style="text-align: center;">
+  <img src="https://i.imgur.com/CCOSU4F.jpeg" alt="Bank QR Code" width="250" style="display: block; margin: 0 auto;">
 </p>
 
 
