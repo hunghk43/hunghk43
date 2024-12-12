@@ -10,8 +10,13 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Hunghk43</h1>
-<h3 align="center">A passionate Front-End Developer from Da Nang City</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Hunghk43!" />
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25¢er=true&vCenter=true&width=750&height=50&duration=7000&lines=A+passionate+Front-End+Developer+from+Da+Nang+City" />
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
 
 
