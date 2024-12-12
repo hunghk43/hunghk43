@@ -11,10 +11,10 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Hunghk43!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Hunghk43!&color=FF0000" />
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25¢er=true&vCenter=true&width=750&height=50&duration=7000&lines=A+passionate+Front-End+Developer+from+Da+Nang+City" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25¢er=true&vCenter=true&width=750&height=50&duration=7000&lines=A+passionate+Front-End+Developer+from+Da+Nang+City&color=FF0000" />
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
@@ -72,9 +72,11 @@
 </p>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hunghk43&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+|                                                                          |                                                                                  |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Ngôn ngữ sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|                                                                          |                                                                                  |
+| <div align="center">[![GitHub Streak](https://github-readme-streak-stats-three-plum.vercel.app?user=Hunghk43&theme=radical)](https://git.io/streak-stats)</div> |                                                                                  |
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
