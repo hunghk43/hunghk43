@@ -84,7 +84,7 @@
 
 
 
-## ☕ Support me with a coffee :))
+## ☕ Support me with a coffee :)))
 
 <p align="center" style="text-align: center;">
   <img src="https://i.imgur.com/CCOSU4F.jpeg" alt="Bank QR Code" width="250" style="display: block; margin: 0 auto;">
