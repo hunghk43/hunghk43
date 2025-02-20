@@ -1,8 +1,8 @@
-<p style="width: 60%; margin: 0; padding: 0;">
+<p style="width: 100%; margin: 0; padding: 0;">
   <a href="https://www.facebook.com/hunghk43?locale=vi_VN">
-    <img src="https://i.gifer.com/origin/f2/f2decdef72706578a92f98dda1276cd8_w200.webp" 
+    <img src="https://i.gifer.com/xK.gif" 
          alt="MasterHead" 
-         style="width: 60%; height: 40%; display: block;">
+         style="width: 10000px; height: 40%; display: block;">
   </a>
 </p>
 
