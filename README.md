@@ -83,12 +83,31 @@
 
 
 
-
-## ☕ Buy Me a Coffee
-
-<p align="center" style="text-align: center;">
-  <img src="https://i.imgur.com/BrYeAGL.jpeg" alt="Bank QR Code" width="250" style="display: block; margin: 0 auto;">
-</p>
-
+## ☕ Support My Work
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://i.imgur.com/BrYeAGL.jpeg" alt="Bank QR Code" width="200">
+      </td>
+      <td align="left" style="padding-left: 20px;">
+        <h3>If my projects have helped you:</h3>
+        <ul>
+          <li>💳 Scan the QR code to support</li>
+          <li>🏦 <strong>Bank:</strong> TECHCOMBANK</li>
+          <li>👤 <strong>Account Name:</strong> HOANG KIM HUNG</li>
+          <li>💰 <strong>Account Number:</strong> 6.8888.333333</li>
+          <li>📝 <strong>Note:</strong> Support from [Your_Name]</li>
+        </ul>
+        <p>Every contribution, no matter how small, helps me maintain and develop open source projects! 🚀</p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/hunghk43" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</div>
 
   
