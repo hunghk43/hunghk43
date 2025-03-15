@@ -33,6 +33,7 @@
 
 ## 🌐Socials
 <p align="left">
+  <a href="https://github.com/hunghk43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GITHUB" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@hunghk43" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-E69O6eq4oux769NfN2vbSmGLej0o4bM0Lw&s" alt="TIKTOK" height="40" width="40" /></a>
   <a href="https://www.facebook.com/hunghk43?locale=vi_VN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FACECBOOK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_hunghk43_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
