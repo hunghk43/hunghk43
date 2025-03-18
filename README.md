@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **Hoangkimhung2004@gmail.com**
 
-- ⚡ Fun fact **Me Keeppp!!!!!**
+- ⚡ Fun fact **Me Keeppp!!!!!!**
 
 ## 🌐Socials
 <p align="left">
