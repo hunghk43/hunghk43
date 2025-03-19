@@ -62,7 +62,7 @@
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | [![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Ngôn ngữ sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |                                                                          |                                                                                  |
-| [![GitHub Streak](https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical)](https://git.io/streak-stats) |                                                                                  |
+| [![GitHub Streak](https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical)](https://git.io/streak-stats) |                                                                                  
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
