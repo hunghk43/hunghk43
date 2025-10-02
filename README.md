@@ -83,7 +83,7 @@
           <li>🏦 <strong>Bank:</strong> TECHCOMBANK</li>
           <li>👤 <strong>Account Name:</strong> HOANG KIM HUNG</li>
           <li>💰 <strong>Account Number:</strong> 6.8888.333333</li>
-          <li>📝 <strong>Note:</strong> Support from [Your_Name]</li>
+          <li>📝 <strong>Note:</strong> Support " tí cơm, tí bún "</li>
         </ul>
         <p>Every contribution, no matter how small, helps me maintain and develop open source projects! 🚀</p>
       </td>
