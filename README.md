@@ -24,24 +24,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🎧 Spotify Now Playing
-<div align="center">
-  <a href="https://open.spotify.com/user/31hl2jrcmextjerzu2jskkdusz5i">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing?open&u=32pnmwmfk27f3sg6h6xz2g7bn" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+## 🎧Spotify
 
-## 👀 Profile Visitor
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hunghk43/count.svg" alt="Visitors Count" />
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hl2jrcmextjerzu2jskkdusz5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=e83030&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
-## ⏰ WakaTime Stats
-<div align="center">
-  <a href="https://wakatime.com/@hoangkimhung">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hoangkimhung&theme=radical&layout=compact" alt="WakaTime Stats" />
-  </a>
-</div>
 
 ## 🌐 Socials
 <p align="left">
