@@ -30,6 +30,12 @@
 - 📫 How to reach me **Hoangkimhung2004@gmail.com**
 
 - ⚡ Fun fact **Me Keeppp!!!!!!**
+ <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐Socials
 <p align="left">
@@ -42,7 +48,7 @@
 </p>
 
 
-# 💻Tech Stack
+## 💻Tech Stack
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -54,20 +60,69 @@
 <br />
 
 
+## 📊 GitHub Stats
 
-# 📊GitHub Stats :
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunghk43&theme=radical" alt="Chi tiết hồ sơ"/>
+      </a>
+    </td>
+    <td width="35%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hunghk43&theme=radical" alt="Thống kê"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<table width="100%">
+  <tr>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hunghk43&theme=radical" alt="Repos theo ngôn ngữ"/>
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunghk43&theme=radical" alt="Ngôn ngữ commit nhiều nhất"/>
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hunghk43&theme=radical&utcOffset=8" alt="Thời gian làm việc hiệu quả"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-|                                                                          |                                                                                  |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Ngôn ngữ sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-|                                                                          |                                                                                  |
-| [![GitHub Streak](https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical)](https://git.io/streak-stats) |                                                                                  
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Thống kê GitHub"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Ngôn ngữ sử dụng nhiều nhất"/>
+  </a>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hunghk43&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ## ☕ Support My Work
 <div align="center">
@@ -101,4 +156,4 @@
 </p>
 
 
-  
+
