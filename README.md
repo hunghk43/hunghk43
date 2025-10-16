@@ -24,9 +24,12 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🎧Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hl2jrcmextjerzu2jskkdusz5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=e83030&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+## 🎧 Spotify
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hl2jrcmextjerzu2jskkdusz5i&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=e83030&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
+</div>
 
 
 ## 🌐 Socials
