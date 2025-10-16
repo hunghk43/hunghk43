@@ -112,10 +112,11 @@
   </tr>
 </table>
 
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Ngôn ngữ sử dụng nhiều nhất"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Ngôn ngữ sử dụng nhiều nhất"/>
   </a>
-
+</p>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
