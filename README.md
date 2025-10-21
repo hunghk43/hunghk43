@@ -134,11 +134,16 @@
   </table>
 </div>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/hunghk43" target="_blank">
+  
+  <a href="https://www.buymeacoffee.com/hunghk43" target="_blank" style="vertical-align: middle;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
   </a>
-</div>
 
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhunghk43&label=Visitors&icon=file-earmark-arrow-down-fill&color=%23ffcd39&message=&style=flat-square&tz=Etc%2FGMT%2B7" alt="Visitors" style="vertical-align: middle;"/>
+  
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
