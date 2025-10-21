@@ -21,7 +21,20 @@
 - ⚡ Fun fact **Me Keeppp!!!!!!**
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake.svg" 
+    />
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake.svg" 
+    />
+  </picture>
 </div>
 
 ## 🎧 Spotify
@@ -100,6 +113,9 @@
     </td>
   </tr>
 </table>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunghk43&theme=radical&bg_color=1F2228&hide_border=true&line=FF0000&point=FF0000&area=true&area_color=F7114A" alt="GitHub Activity Graph"/>
+</a>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Ngôn ngữ sử dụng nhiều nhất"/>
@@ -110,7 +126,7 @@
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hunghk43&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hunghk43&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## ☕ Support My Work
 <div align="center">
@@ -147,3 +163,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+
+
+
