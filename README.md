@@ -127,6 +127,7 @@
   <a href="https://open.spotify.com/user/31hl2jrcmextjerzu2jskkdusz5i">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hl2jrcmextjerzu2jskkdusz5i&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=e83030&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
+   <p><i>🎧 Nếu không thấy bài hát nào, tức là hiện tại mình chưa bật nhạc!</i></p>
 </div>
 
 ## ☕ Support My Work
