@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=750&height=50&duration=7000&lines=Gen+Z+Front-End+Developer+based+in+Da+Nang+City&color=FF0000" />
 </h3>
 
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
 
 - 🔭 I’m currently working on **Web App**
 - 🌱 I’m currently learning **Dev**
