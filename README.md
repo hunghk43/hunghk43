@@ -20,19 +20,21 @@
 - 📫 How to reach me **Hoangkimhung2004@gmail.com**
 - ⚡ Fun fact **Me Keeppp!!!!!!**
 
+## 🕹️ My GitHub Stats Snake Game
+    
 <div align="center">
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake-dark.svg" 
+      srcset="https://raw.githubusercontent.com/hunghk43/snk/manual-run-output/github-contribution-grid-snake-dark.svg" 
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake.svg" 
+      srcset="https://raw.githubusercontent.com/hunghk43/snk/manual-run-output/github-contribution-grid-snake.svg" 
     />
     <img 
       alt="github-snake" 
-      src="https://raw.githubusercontent.com/hunghk43/snk/output/github-snake.svg" 
+      src="https://raw.githubusercontent.com/hunghk43/snk/manual-run-output/github-contribution-grid-snake.svg" 
     />
   </picture>
 </div>
