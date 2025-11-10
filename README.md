@@ -21,14 +21,36 @@
 - ⚡ Fun fact **Me Keeppp!!!!!!**
 
 ## 💻 Tech Stack
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="My Tech Stack Animation" src="./Skills_Animation_White.gif">
-  </picture>
+<div align="left">
+
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
+
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
+
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
+
+  <!-- Tailwind CSS -->
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="60" height="60"/>
+
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
+
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="60" height="60"/>
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
+
 </div>
-<br />
+
+<br/>
+
 
 ## 🌐 Socials
 <p align="left">
