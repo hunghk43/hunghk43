@@ -118,9 +118,9 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Thống kê GitHub"/>
-      </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-lake-nine-34.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Thống kê GitHub"/>
+      </a>
     </td>
     <td width="50%">
       <a href="https://git.io/streak-stats">
@@ -133,9 +133,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunghk43&theme=radical&bg_color=1F2228&hide_border=true&line=FF0000&point=FF0000&area=true&area_color=F7114A" alt="GitHub Activity Graph"/>
 </a>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Ngôn ngữ sử dụng nhiều nhất"/>
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-lake-nine-34.vercel.app/api/top-langs/?username=hunghk43&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1A1F2E,8B0000&title_color=FF0000&text_color=FFFFFF&icon_color=FFD700&border_radius=16&langs_count=10" alt="Top Languages - Compact"/>
+  </a>
 </div>
 
 ## 🏆 GitHub Trophies
