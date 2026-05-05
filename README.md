@@ -22,44 +22,30 @@
 
 ## 💻 Tech Stack
 <div align="left">
-
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
-
-  <!-- CSS -->
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
-
-  <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
-
-  <!-- Tailwind CSS -->
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="60" height="60"/>
-
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
-
-  <!-- Node.js -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="60" height="60"/>
-
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-
-  <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,github,mongodb" />
 </div>
-
-<br/>
 
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://github.com/hunghk43" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GITHUB" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@hunghk43" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-E69O6eq4oux769NfN2vbSmGLej0o4bM0Lw&s" alt="TIKTOK" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/hunghk43?locale=vi_VN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FACECBOOK" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_hunghk43_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@kimhung3094" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YOUTUBE" height="30" width="40" /></a>
-  <a href="https://web.telegram.org/a/#6000729559" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5tWA0Ub7Vss92k5aa8RURTPgxlcRgxeVFw&s" alt="TELEGRAM" height="30" width="40" /></a>
+  <a href="https://github.com/hunghk43" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  </a>
+  <a href="https://www.tiktok.com/@hunghk43" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/hunghk43?locale=vi_VN" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/_hunghk43_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/@kimhung3094" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+  </a>
+  <a href="https://web.telegram.org/a/#6000729559" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="30"/>
+  </a>
 </p>
 
 ## 📊 GitHub Stats
