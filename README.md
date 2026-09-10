@@ -1,33 +1,39 @@
 <div align="center">
-  <a href="https://www.facebook.com/hunghk43?locale=vi_VN">
-    <img src="https://i.gifer.com/xK.gif" alt="MasterHead" style="width: 100%; height: auto; display: block;">
-  </a>
+  <a href="https://www.facebook.com/hunghk43?locale=vi_VN">
+    <img src="https://i.gifer.com/xK.gif" alt="MasterHead" style="width: 100%; height: auto; display: block;">
+  </a>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Hunghk43!&color=FF0000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Hunghk43!&color=FF0000" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=750&height=50&duration=7000&lines=Gen+Z+Front-End+Developer+based+in+Da+Nang+City&color=FF0000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=750&height=50&duration=7000&lines=AI+Quality+%26+Trust+Engineer+based+in+Da+Nang+City&color=FF0000" />
 </h3>
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
 
-- 🔭 I’m currently working on **Web App**
-- 🌱 I’m currently learning **Dev**
-- 💬 Ask me about **Front-End**
+- 🔭 I’m currently working on **AI Evaluation, Safety & Quality Assurance**
+- 🌱 I’m currently learning **LLMs, AI Alignment & Trust & Safety Frameworks**
+- 💬 Ask me about **AI Quality, Model Evaluation & Prompt Engineering**
 - 📫 How to reach me **Hoangkimhung2004@gmail.com**
 - ⚡ Fun fact **Me Keeppp!!!!!!**
 
 ## 💻 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,github,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,js,html,css,tailwind,react,nodejs,github,mongodb,docker" />
 </div>
 
 
 ## 🌐 Socials
 <p align="left">
+  <a href="https://www.linkedin.com/in/hunghk43/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://wa.me/84859629290" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30"/>
+  </a>
   <a href="https://github.com/hunghk43" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   </a>
@@ -69,55 +75,53 @@
 
 <br>
 <table width="100%">
-  <tr>
-    <td width="65%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunghk43&theme=radical" alt="Chi tiết hồ sơ"/>
-      </a>
-    </td>
-    <td width="35%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hunghk43&theme=radical" alt="Thống kê"/>
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td width="65%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunghk43&theme=radical" alt="Chi tiết hồ sơ"/>
+      </a>
+    </td>
+    <td width="35%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hunghk43&theme=radical" alt="Thống kê"/>
+      </a>
+    </td>
+  </tr>
 </table>
 <table width="100%">
-  <tr>
-    <td width="33.3%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hunghk43&theme=radical" alt="Repos theo ngôn ngữ"/>
-      </a>
-    </td>
-    <td width="33.3%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunghk43&theme=radical" alt="Ngôn ngữ commit nhiều nhất"/>
-      </a>
-    </td>
-    <td width="33.3%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hunghk43&theme=radical&utcOffset=8" alt="Thời gian làm việc hiệu quả"/>
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hunghk43&theme=radical" alt="Repos theo ngôn ngữ"/>
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunghk43&theme=radical" alt="Ngôn ngữ commit nhiều nhất"/>
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hunghk43&theme=radical&utcOffset=8" alt="Thời gian làm việc hiệu quả"/>
+      </a>
+    </td>
+  </tr>
 </table>
 <table width="100%">
-  <tr>
-    <td width="50%">
-     <a href="https://github.com/anuraghazra/github-readme-stats">
+  <tr>
+    <td width="50%">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-lake-nine-34.vercel.app/api?username=hunghk43&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Thống kê GitHub"/>
       </a>
-    </td>
-    <td width="50%">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical" alt="GitHub Streak"/>
-      </a>
-    </td>
-  </tr>
+    </td>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-three-plum.vercel.app?user=hunghk43&theme=radical" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunghk43&theme=radical&bg_color=1F2228&hide_border=true&line=FF0000&point=FF0000&area=true&area_color=F7114A" alt="GitHub Activity Graph"/>
-</a>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-lake-nine-34.vercel.app/api/top-langs/?username=hunghk43&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1A1F2E,8B0000&title_color=FF0000&text_color=FFFFFF&icon_color=FFD700&border_radius=16&langs_count=10" alt="Top Languages - Compact"/>
@@ -127,16 +131,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hunghk43&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hunghk43&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## 🎧 Spotify
-<div align="center">
-  <a href="https://open.spotify.com/user/31hl2jrcmextjerzu2jskkdusz5i">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hl2jrcmextjerzu2jskkdusz5i&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=e83030&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
-   <p><i>🎧 Nếu không thấy bài hát nào, tức là hiện tại mình chưa bật nhạc!</i></p>
-</div>
 
 ## ☕ Support My Work
 <div align="center">
@@ -160,17 +155,15 @@
   </table>
 </div>
 <div align="center">
-  
-  <a href="https://www.buymeacoffee.com/hunghk43" target="_blank" style="vertical-align: middle;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
-  </a>
+  
+  <a href="https://www.buymeacoffee.com/hunghk43" target="_blank" style="vertical-align: middle;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  </a>
 
-       
-  
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhunghk43&label=Visitors&icon=file-earmark-arrow-down-fill&color=%23ffcd39&message=&style=flat-square&tz=Etc%2FGMT%2B7" alt="Visitors" style="vertical-align: middle;"/>
-  
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhunghk43&label=Visitors&icon=file-earmark-arrow-down-fill&color=%23ffcd39&message=&style=flat-square&tz=Etc%2FGMT%2B7" alt="Visitors" style="vertical-align: middle;"/>
+  
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
